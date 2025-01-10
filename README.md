@@ -1,8 +1,26 @@
 <h1>Hi, I'm Taniya! <br/><a href="https://github.com/connecttaniya">Finance</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Analytics Professional</a> <a href="https://www.youtube.com/c/joshmadakor"> </a></h1>
 
-<h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
+<h2>Database Management and ETL:</h2>
 
+- [Softball Game Analysis](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>Financial Analytics</h2>
+
+- [Retirement Planning Simulation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Portfolio optimization Model](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Event Price Optimization](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [2008 Financial Crisis Analysis in R](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Loan Denlinquency Status Predtictive Model](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Dynamic Pricing and Revenue Optimization Model](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
+
+<h2>Data Science and Machine Learning</h2>
+
+- [First Responders’ Data Science Research](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Airbnb Booking Rate Predictive Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
+<h2>Data Analytics and Visualization:</h2>
+
 - [USA School Shooting Analysis](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Global Airport and US International Flight Route Study](https://github.com/joshmadakor1/Sentinel-Lab)
 - [Domestic flight flow study](https://github.com/joshmadakor1/EncrypterPOC)
@@ -11,62 +29,11 @@
 - [Google Merchandise Store Visitor Dashboard](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [Insights on USA school shootings](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
-<h2>Database Management and ETL Projects</h2>
-- <b>Softball Game Analysis</b>
- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>Operations Management and Supply Chain</h2>
 
-<h2>Data Science and Machine Learning</h2>
-
-- [First Responders’ Data Science Research](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Airbnb Booking Rate Predictive Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-
-<h2>Optimization and Simulation</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2>Supply Chain and Operations Management</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2>Financial Analytics</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Healthcare Supply Chain Optimization and Simulation Model](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Flight Sequencing](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Production Scheduling](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Product Miz Optimization](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Oil Blending Strategy Simulation](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  
