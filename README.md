@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taniya! <br/><a href="https://github.com/connecttaniya">Finance</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Analytics Professional</a> <a href="https://www.youtube.com/c/joshmadakor"> </a></h1>
+<h1>Hi, I'm Taniya! <br/><a href="https://github.com/connecttaniya">Finance</a> & <a href="https://www.linkedin.com/in/taniyaagrawal/">Analytics Professional</a> <a href="https://www.youtube.com/c/joshmadakor"> </a></h1>
 
 <h2>Database Management and ETL:</h2>
 
