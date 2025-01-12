@@ -34,6 +34,4 @@
 - [Healthcare Supply Chain Optimization and Simulation Model](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Flight Sequencing](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Production Scheduling](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Product Miz Optimization](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Oil Blending Strategy Simulation](https://www.youtube.com/watch?v=N-L9hklSlNk)
   
