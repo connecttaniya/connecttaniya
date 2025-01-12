@@ -27,7 +27,7 @@
 - [North America Internet Use](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [Minimum Wage Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [Google Merchandise Store Visitor Dashboard](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- [Insights on USA school shootings](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Canada](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 <h2>Operations Management and Supply Chain</h2>
 
